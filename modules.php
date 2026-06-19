@@ -190,6 +190,9 @@ $dolibarr_modules_numerotation = array(
 	array('number' => '4462753',		'name' => 'bary_modeles',							'description'  => 		'modèles pdf pour bary.ch'),
 	array('number' => '4462754',		'name' => 'resource_pointage',						'description'  => 		'Suivi des heures pour les ressources, en lien avec les projets'),
 	array('number' => '4462755',		'name' => 'pilocomm',								'description'  => 		'Pilotage commercial STV'),
+	array('number' => '4462756',		'name' => 'suivichantier',							'description'  => 		'Suivi de chantier STV'),
+	array('number' => '4462757',		'name' => 'fichehoraire',							'description'  => 		'Export des fiches horaires depuis les temps consommés projets'),
+	array('number' => '4462758',		'name' => 'panier',									'description'  => 		'Gestion des paniers repas pour le TP/BTP - compatible avec fichehoraire'),
 	
 	/*AUTRES et ANOMALIES*/
 	array('number' => '580000',			'name' => 'gamme produit',							'description'  => 	'??? NUMERO NON CONFORME, HORS SEGMENT ?'),
