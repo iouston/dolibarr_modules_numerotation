@@ -193,6 +193,8 @@ $dolibarr_modules_numerotation = array(
 	array('number' => '4462756',		'name' => 'suivichantier',							'description'  => 		'Suivi de chantier STV'),
 	array('number' => '4462757',		'name' => 'fichehoraire',							'description'  => 		'Export des fiches horaires depuis les temps consommés projets'),
 	array('number' => '4462758',		'name' => 'panier',									'description'  => 		'Gestion des paniers repas pour le TP/BTP - compatible avec fichehoraire'),
+	array('number' => '4462759',		'name' => 'quickproductaddition',					'description'  => 		'Ajout de produit rapide dans le catalogue depuis un produit libre'),
+	array('number' => '4462760',		'name' => 'stockview',								'description'  => 		'Vue et valorisation du stock'),
 	
 	/*AUTRES et ANOMALIES*/
 	array('number' => '580000',			'name' => 'gamme produit',							'description'  => 	'??? NUMERO NON CONFORME, HORS SEGMENT ?'),
